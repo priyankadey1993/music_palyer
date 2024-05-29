@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/07 10:05:20.000.183,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/07 10:05:21.000.781,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/21 18:54:10.000.975,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/21 18:54:11.000.113,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/21 18:56:27.000.396,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/21 18:56:27.000.781,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/22 13:40:29.000.570,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/22 13:40:29.000.472,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/27 16:47:10.000.702,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/27 16:47:10.000.592,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/28 22:12:47.000.707,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/28 22:12:47.000.471,=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/05/28 23:09:10.000.935,C:\Users\soura\Documents\Embarcadero\Studio\Projects\music_player\Unit1.dfm=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/28 23:09:10.000.935,C:\Users\soura\Documents\Embarcadero\Studio\Projects\music_player\Unit1.cpp=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/05/28 23:09:10.000.935,C:\Users\soura\Documents\Embarcadero\Studio\Projects\music_player\Unit1.h=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/05/28 23:09:10.000.961,C:\Users\soura\Documents\Embarcadero\Studio\Projects\music_player\Project1.cbproj=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/05/28 23:09:10.000.906,C:\Users\soura\Documents\Embarcadero\Studio\Projects\music_player\Project1PCH1.h=C:\Users\soura\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
